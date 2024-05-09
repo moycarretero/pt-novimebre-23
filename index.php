@@ -52,3 +52,11 @@
         echo "<li>La clave de $fruta es $clave</li>";
     }
     echo "</ul>";
+
+    $resultado = 10;
+
+    $numero = 6;
+    $numero2 = 7;
+
+    echo sumar($numero, $numero2);
+
