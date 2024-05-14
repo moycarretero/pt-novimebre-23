@@ -6,6 +6,7 @@
     $coche->repostarCombustible(20);
     $coche->mover(56);
     $coche->mover(130);
+    $coche->setNumRuedas(4);
 
     //coche.cantidadCombustible
     //echo "La cantidad de combustible es: ".$coche->getCantidadCombustible();
@@ -21,3 +22,5 @@
 
     $ferrari = new Coche("Ferrari", "Testarrosa");
     $ferrari->pintaInfo();
+
+    $vehiculo = new Vehiculo();
