@@ -1,0 +1,9 @@
+{
+    "name": "upgrade/peliculas",
+    "autoload": {
+        "psr-4": {
+            "Upgrade\\Netflix\\": "src/"
+        }
+    },
+    "require": {}
+}
