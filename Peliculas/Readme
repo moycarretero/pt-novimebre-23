@@ -1,0 +1,3 @@
+Para crear el directorio "vendor" hay que ejecutar dentro del directorio Peliculas en la consola el siguiente comando:
+
+composer i
